@@ -2,7 +2,7 @@
 title: Technology Adapts Like Organisms
 description: Clawbots and the need for new ideas spaces.
 date: 2026-02-20
-image: public/Tech.png
+image: /workspaces/portfolio/public/Tech.png
 minRead: 5
 author:
   name: Steven Hobbs
