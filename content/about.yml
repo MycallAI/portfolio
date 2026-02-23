@@ -1,27 +1,27 @@
 title: About Me
-description: Learn more about my journey as a Boston-based UX/UI Designer & Front-End Developer, my design philosophy, and my passion for crafting intuitive digital experiences.
+description: Discover the journey of Steven Hobbs—from Bioengineering research to founding MYCALLA INC. in Puerto Rico—and his vision for AI, biotechnology, and community connectivity.
 content: |
-  Hi, I'm **Emma Thompson**, a UX/UI Designer and Front-End Developer based right here in Boston. For the past six years, I've been immersed in the world of digital product creation, focusing on building experiences that are not just functional, but genuinely intuitive and engaging for users.
+  Hi, I'm **Steven Hobbs**, a Bioengineer, Data Scientist, and the Founder of **MYCALLA INC.** based in Trujillo Alto, Puerto Rico. My career is defined by a convergence of disciplines: bridging the precision of biological data with the limitless potential of AI and community infrastructure.
 
-  My path started at **Boston University**, where I earned a degree in Interactive Design. It was there I discovered my dual passion for the visual language of design and the logical puzzle of code. Since then, I've honed my skills in both areas, believing that the best digital products are born from a deep understanding of both aesthetics and implementation.
+  My path started at the **University of California, Santa Cruz**, where I earned a Bachelor of Science in Bioengineering. Early on, I discovered a passion for computational biology, applying neural networks to protein structure prediction and developing database applications for developmental biology. Since then, I’ve expanded my expertise into inventory logistics, compliance (GxP, ISO 13485), and now, advanced communication solutions.
 
-  ### My Design Philosophy
+  ### My Philosophy: Precision Meets Innovation
 
-  My design philosophy is rooted in **empathy** and **problem-solving**. I believe great design starts with understanding the 'why' – the user's needs, motivations, and pain points. I use research, iterative prototyping (often with tools like Figma), and user testing to ensure the solutions I build are truly effective.
+  My approach is rooted in the **scientific method** and **ethical responsibility**. Whether I am validating computer systems for medical compliance or designing agentic workflows for my AI project, **SyncCraft**, I believe that rigorous standards and creative problem-solving must go hand-in-hand.
 
-  I strive to create interfaces that feel effortless, where functionality and beauty work hand-in-hand. Whether I'm crafting pixel-perfect UIs or writing clean Vue.js/Nuxt.js code, my focus is always on creating value for the end-user.
+  At **MYCALLA INC.**, my mission is to empower the people of Puerto Rico. We are committed to bridging gaps and enhancing quality of life through reliable, cutting-edge communication technologies. I believe that technology finds its highest purpose when it serves the community that builds it.
 
   ### What Drives Me
 
-  What keeps me excited about this work is the constant learning and the challenge of translating complex ideas into simple, elegant solutions. There's nothing more rewarding than seeing a design come to life and knowing it's making someone's digital interaction easier or more enjoyable.
+  I am driven by the challenge of **optimization and connection**. From streamlining warehouse processes to untangling complex genetic algorithms, I love turning raw data into actionable, life-improving insights. Currently, I am deeply focused on the intersection of **AI agents** and **biotech infrastructure**, exploring how intelligent systems can revolutionize local industries.
 
-  ### Beyond the Screen
+  ### Beyond the Lab
 
-  When I'm not designing or coding, you might find me exploring Boston's latest coffee shops, hiking nearby trails, or occasionally contributing to open-source projects.
+  When I'm not coding or running business operations, I am a dedicated student of the **history and roots of Jazz**, exploring how improvisation in music mirrors innovation in engineering. I am also deeply involved in **Bioethics** and civic engagement, serving as a Poll Worker and advocate for Civil Rights.
 
-  Thanks for stopping by. Feel free to browse my [projects](/projects) or [get in touch](/#contact) if you'd like to collaborate!
+  Thanks for stopping by. Feel free to browse my [repositories](https://github.com/shobbs) or [get in touch](mailto:mail.shobbs+ai@gmail.com) if you'd like to collaborate on the future of tech in Puerto Rico!
 images:
-  - src: https://images.unsplash.com/photo-1744877478622-a78c7a3336f6?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-    alt: My coffee workspace
-  - src: https://images.unsplash.com/photo-1744429523595-2c06b8611242?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-    alt: My trip to Tokyo
+  - src: https://media.nature.com/w1248/magazine-assets/d41586-022-01618-x/d41586-022-01618-x_23081494.jpg?as=webp
+    alt: Technology and Biology Integration
+  - src: https://www.insidehook.com/wp-content/uploads/2023/02/Puerto-Rico.jpg?fit=1500%2C1000
+    alt: Puerto Rico Coastline

@@ -1,48 +1,42 @@
+Here is the template updated to reflect your expertise in **Bioethics**, **AI**, and **Communication Infrastructure**, incorporating your work with **MYCALLA INC.** and your background in mentorship.
+
+```yaml
 title: Talks & Workshops
-description: Explore talks and workshops I've given on UX design, front-end development, and building better digital products.
+description: Explore my discussions on **Bioethics**, **AI Agent Development**, and building resilient **Communication Infrastructure** in Puerto Rico.
 links:
   - label: Invite me to speak
     size: md
+    url: "mailto:mail.shobbs+ai@gmail.com"
 events:
   - category: Conference
-    title: "Bridging the Gap: Design Systems for Designer-Developer Collaboration"
-    date: "2024-10-26"
-    location: "VueConf US, Miami, FL"
+    title: "MYCALLA INC: Bridging the Digital Divide in Puerto Rico"
+    date: "2026-02-10"
+    location: "Trujillo Alto, PR (Local Innovation Meetup)"
     url: "#"
   - category: Conference
-    title: "Intuitive Interfaces: Applying UX Principles in Nuxt.js Applications"
-    date: "2024-06-15"
-    location: "Nuxt Nation, Online"
-    url: "#"
+    title: "SyncCraft: Streamlining Documentation for AI Agents"
+    date: "2026-01-15"
+    location: "Online Developer Forum"
+    url: "https://github.com/shobbs"
   - category: Conference
-    title: "Accessibility First: Building Inclusive Web Apps"
-    date: "2023-11-08"
-    location: "Boston Web Performance Meetup, Boston, MA"
-  - category: Live talk
-    title: "Mastering Component Design in Figma & Vue"
-    date: "2024-08-20"
-    location: "Design & Dev Boston Meetup, Boston, MA"
+    title: "The Ethics of Genetics: Biotechnology Literacy in the Modern Age"
+    date: "2025-11-05"
+    location: "Bioengineering Alumni Network (Panel)"
+  - category: Live talks
+    title: "Navigating IT Business Analysis & Data Analytics"
+    date: "2025-08-20"
+    location: "Mentor Collective Session"
     url: "#"
-  - category: Live talk
-    title: "From Wireframe to Web: A Practical Front-End Workflow"
-    date: "2024-03-05"
-    location: "Internal Workshop @ PreviousCompany Inc."
-  - category: Live talk
-    title: "The Power of User Research in Product Development"
-    date: "2023-09-12"
-    location: "Boston University Guest Lecture, Boston, MA"
+  - category: Live talks
+    title: "GxP & ALCOA+: Best Practices for Data Integrity"
+    date: "2025-05-12"
+    location: "Internal Training (Compliance Series)"
+  - category: Live talks
+    title: "Biology & Bioinformatics: From Classroom to Lab"
+    date: "2024-09-10"
+    location: "STEM Youth Outreach, Santa Clara"
   - category: Podcast
-    title: "Designing for Developers: A UX Perspective"
-    date: "2024-07-18"
-    location: "Syntax.fm (Guest)"
-    url: "#"
-  - category: Podcast
-    title: "The Future of Front-End Frameworks & Design Tooling"
-    date: "2024-01-30"
-    location: "Design Details Podcast (Guest)"
-    url: "#"
-  - category: Podcast
-    title: "Building a Career in UX/UI & Development"
-    date: "2023-05-22"
-    location: "TechForward Boston Podcast"
-    url: "#"
+    title: "The Intersection of Jazz History and Engineering Improvisation"
+    date: "2024-04-15"
+    location: "Arts & Tech Podcast (Guest)"
+    url: "https://steve-at-mycalla.github.io/space/fun.mp3"

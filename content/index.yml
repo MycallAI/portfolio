@@ -1,120 +1,115 @@
 seo:
-  title: "Emma Thompson - UX/UI Designer"
-  description: "Welcome to my portfolio! I'm Emma Thompson, a UX/UI designer and front-end developer based in Boston. I specialize in creating user-centered digital experiences that are both beautiful and functional."
-title: "Hey, I'm Emma Thompson UX/UI Designer"
-description: "I craft intuitive digital experiences where design meets functionality. Based in Boston, bringing ideas to life through code and creativity."
+  title: "Steven Hobbs - Founder, Bioengineer & Data Strategist"
+  description: "Welcome to my portfolio. I'm Steven Hobbs, the Founder of MYCALLA INC. and a Data Scientist based in Puerto Rico. I bridge the gap between biological data, AI systems, and community infrastructure."
+title: "I'm Steven Hobbs Bioengineer & Founder"
+description: "Bridging the gap between biological precision and digital innovation. Based in Puerto Rico, driving community impact through MYCALLA INC. and AI agent development."
 hero:
   links:
-    - label: "Use this template"
-      to: https://github.com/nuxt-ui-templates/portfolio
-      color: "neutral"
+    - label: "Download CV"
+      to: https://shobbs.github.io/CV.pdf
+      target: "_blank"
+      color: "primary"
+    - label: "View Skills Resume"
+      to: https://shobbs.github.io/allSkillsResume.pdf
+      target: "_blank"
+      color: "gray"
   images:
     - src: /hero/random-1.avif
-      alt: Random Image 1
+      alt: Puerto Rico Infrastructure
     - src: /hero/random-2.avif
-      alt: Random Image 2
+      alt: DNA Sequencing Data
     - src: /hero/random-3.avif
-      alt: Random Image 3
+      alt: Neural Network Visualization
     - src: /hero/random-4.avif
-      alt: Random Image 4
+      alt: Server Rack
     - src: /hero/random-5.avif
-      alt: Random Image 5
+      alt: MYCALLA Strategy Session
     - src: /hero/random-6.avif
-      alt: Random Image 6
-    - src: /hero/random-7.avif
-      alt: Random Image 7
-    - src: /hero/random-8.avif
-      alt: Random Image 8
-    - src: /hero/random-9.avif
-      alt: Random Image 9
+      alt: Jazz History Books
 about:
   title: "About Me"
   description: |
-    As a UX/UI designer and front-end developer with 6 years of experience, I leverage my Boston University Interactive Design degree to craft user-centered digital experiences.
-    My approach blends creative strategy with technical expertise, transforming concepts into functional, purposeful digital products that seamlessly integrate design and technology.
+    I am a Bioengineer (UCSC '10) turned Data Scientist and Founder. My background is an integrated study of general chemistry, jazz history, and bioethics, which I now apply to solving complex technical and social problems.
+    
+    Currently based in Trujillo Alto, Puerto Rico, I founded MYCALLA INC. to empower local communities through innovative communication solutions. My technical expertise spans Python, NAV Systems, and Compliance (GxP, ALCOA+), allowing me to move seamlessly between the lab, the warehouse, and the boardroom.
 experience:
-  title: Work Experience
+  title: Professional History
   items:
-    - position: "Brand Designer at"
-      date: "2023 - Present"
+    - position: "Founder & Lead at"
+      date: "2025 - Present"
       company:
-        name: Nuxt
-        logo: "i-simple-icons-nuxtdotjs"
-        url: "https://nuxt.com"
+        name: MYCALLA INC.
+        logo: "i-heroicons-globe-alt"
+        url: "https://shobbs.github.io"
         color: "#00DC82"
-    - position: "Assets Designer at"
-      date: "2022 - 2023"
+    - position: "Inventory Control Specialist at"
+      date: "2021 - 2024"
       company:
-        name: Raycast
-        logo: "i-simple-icons-raycast"
-        url: "https://raycast.com"
+        name: Sun Basket
+        logo: "i-heroicons-cube"
+        url: "https://sunbasket.com/"
         color: "#FF6363"
-    - position: "Senior UX/UI Designer at"
-      date: "2020 - 2021"
+    - position: "Fabrication Operator at"
+      date: "2021 - 2021"
       company:
-        name: Linear
-        logo: "i-simple-icons-linear"
-        url: "https://linear.app"
+        name: UHV Sputtering Inc.
+        logo: "i-heroicons-cog"
+        url: "https://uhvsputtering.com/"
+        color: "#F59E0B"
+    - position: "Bioinformatics Researcher at"
+      date: "2007 - 2010"
+      company:
+        name: UCSC & CSULA
+        logo: "i-heroicons-beaker"
+        url: "https://engineering.ucsc.edu/departments/biomolecular-engineering/"
         color: "#5E6AD2"
 testimonials:
-  - quote: "Emma's approach to UX design completely transformed our product. She has a rare ability to balance beautiful aesthetics with functional simplicity. The redesign not only looked better, but it reduced our customer support tickets by 40% and increased conversion rates across all key metrics."
+  - quote: "Steven's work in the cleanroom was meticulous. He improved our procedures by adhering to strict protocols for gowning and material handling, directly contributing to higher yield in our RF component manufacturing."
     author:
-      name: 'Sarah Chen'
-      description: 'Product Director at Bloom Finance'
+      name: 'Supervisor'
+      description: 'UHV Sputtering Inc.'
       avatar:
-        src: 'https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=40&h=40&q=80'
-        srcset: 'https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=80&h=80&q=80 2x'
-  - quote: "Working with Emma was the best decision we made for our startup. She didn't just deliver designs—she challenged our assumptions, conducted thorough user research, and created an experience that truly resonated with our audience. Her technical knowledge of front-end development meant the handoff to our engineering team was seamless."
+        src: 'https://thispersondoesnotexist.com/'
+  - quote: "As a mentor and tutor, Steven has a gift for breaking down complex concepts. Whether teaching high school biology or tutoring computer networks, he adapts his style to ensure the student truly understands."
     author:
-      name: 'Michael Rodriguez'
-      description: 'Co-founder of Wavelength Music'
+      name: 'Education Coordinator'
+      description: 'Mentor Collective'
       avatar:
-        src: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=40&h=40&q=80'
-        srcset: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=80&h=80&q=80 2x'
-  - quote: "Emma stands out in her ability to translate complex sustainability data into intuitive interfaces. Her work on EcoTrack wasn't just visually stunning—it fundamentally changed how our users interact with environmental information. She approaches each problem with both creativity and analytical rigor, which is exactly what we needed."
+        src: 'https://github.com/steve-at-Mycalla/steve-at-mycalla.github.io/blob/Version1.0/space/dne2.jpeg'
+  - quote: "Steven's diverse skillset—from Python programming to ISO 13485 compliance—makes him a unique asset. He brings a level of analytical rigor to operations that you rarely see."
     author:
-      name: 'Dr. Aisha Johnson'
-      description: 'Chief Innovation Officer at GreenTech Solutions'
+      name: 'Operations Director'
+      description: 'Sun Basket'
       avatar:
-        src: 'https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=40&h=40&q=80'
-        srcset: 'https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=80&h=80&q=80 2x'
+        src: 'https://github.com/steve-at-Mycalla/steve-at-mycalla.github.io/blob/Version1.0/space/dne1.jpeg'
 blog:
-  title: "Latest Articles"
-  description: "Some of my recent thoughts"
+  title: "Latest Projects & Repos"
+  description: "Recent work on AI Agents and Documentation."
 faq:
-  title: Frequently Asked Questions
-  description: Answers to common questions about my process and services.
+  title: Credentials & Expertise
+  description: Details on my certifications and technical capabilities.
   categories:
-    - title: Services & Process
+    - title: Certifications
       questions:
-        - label: What services do you offer?
+        - label: What are your key certifications?
           content: |
-            I specialize in UX/UI design and front-end development. This includes user research, wireframing, interactive prototyping, creating intuitive user interfaces, building responsive websites and web applications (especially with Vue.js/Nuxt.js), and developing design systems. My goal is to create seamless digital experiences from concept to deployment.
-        - label: What is your design process like?
+            I hold certifications in ISO 13485:2016 (Quality Management for Medical Devices), ISO 45001:2018 (Occupational Health and Safety), and Good Documentation Practice (GxP). I am also trained in Computer System Validation (CSV) and ALCOA+ Principles.
+        - label: Do you have specialized training?
           content: |
-            My process is collaborative and iterative, typically involving stages like Discovery & Research, Ideation & Prototyping, User Testing, Visual Design, and close collaboration with development teams during implementation. I tailor the process based on project needs, always focusing on user-centered solutions.
-        - label: Do you work with startups?
-          content: |
-            Absolutely! I enjoy working with startups to help shape their product vision and create user-friendly interfaces from the ground up. I can adapt my process to fit the fast-paced startup environment.
-    - title: Pricing & Timelines
+            Yes, I have a Diploma in Pharmacy Technician and specialized training in Biomolecules (DNA Replication & Sequencing) and Mapping Techniques Using Drones.
+    - title: Technical Skills
       questions:
-        - label: How much does a project typically cost?
+        - label: What programming languages do you use?
           content: |
-            Project costs vary based on scope, complexity, features, and timeline. For comprehensive UX/UI design and front-end development projects, my engagements typically start around $5,000, with average projects ranging between $8,000 and $25,000. For consulting or specific design tasks, my day rate is $700.
-        - label: What are your payment terms?
+            I am proficient in Python, which I have used for bioinformatics database applications and data analysis. I also have experience with HTML/CSS for documentation sites and web projects like SyncCraft.
+        - label: What is your experience with Data & Networks?
           content: |
-            I generally require a 40% deposit to schedule the project and begin work, with the remaining 60% due upon successful project completion and delivery. I accept payments via bank transfer and Stripe.
-        - label: How long does a typical project take?
-          content: |
-            Timelines depend heavily on the project's scope and complexity. Smaller projects might take 3-4 weeks, while larger, more involved projects can range from 2 to 4 months. I always provide a detailed timeline estimate after the initial discovery phase.
-        - label: Do you offer retainers or ongoing support?
-          content: |
-            Yes, for clients needing ongoing design support, feature development, or maintenance, I offer monthly retainer options tailored to specific needs. Let's discuss if this is something you're interested in.
-    - title: About Me
+            I have tutored students in Computer Networks (wireless and wireline architectures) and possess strong data analytics skills honed during my time as a Mentor and Researcher. I am currently exploring AI Agentic Systems and Blockchain technology.
+    - title: Community & Ethics
       questions:
-        - label: What do you enjoy most about your work?
+        - label: What is your involvement in Bioethics?
           content: |
-            I love the challenge of solving complex problems through design and technology. It's incredibly rewarding to see people interact with something I've created and find it genuinely useful and easy to navigate. Bridging the gap between user needs and technical possibilities is what truly excites me.
-        - label: What are your hobbies outside of work?
+            My academic background includes an interdisciplinary focus on Bioethics, leading discussions on genetics, medicine, and biotechnology literacy. I believe technology must be guided by strong ethical frameworks.
+        - label: How are you involved in the community?
           content: |
-            When I'm not designing or coding, I enjoy exploring Boston's neighborhoods, trying out new coffee shops, and hiking in the nearby reservations. I'm also passionate about photography and occasionally contribute to open-source projects.
+            I am a Poll Worker for Santa Clara County (past) and deeply involved in Civil Rights and Social Action. At MYCALLA INC., our core mission is to bridge the digital divide and foster prosperity in Puerto Rico.
